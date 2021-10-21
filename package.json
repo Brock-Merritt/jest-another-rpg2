@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brock-Merritt/jest-another-rpg2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brock-Merritt/jest-another-rpg2/issues"
+  },
+  "homepage": "https://github.com/Brock-Merritt/jest-another-rpg2#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
