@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Brock-Merritt/jest-another-rpg2#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "jest": "^27.3.1"
   }
 }
